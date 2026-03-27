@@ -1,0 +1,1 @@
+import{_ as t}from"./about-FXS1NaOW.js";import{a as o,c as s,b as c}from"./vendor-iwA2G7Tf.js";const n={},r={class:"wrap-content"};function a(_,e){return o(),s("div",r,[...e[0]||(e[0]=[c("h1",null,"Vite + Vue3 + TypeScript + Element-Plus 企业中台最佳实践",-1)])])}const l=t(n,[["render",a],["__scopeId","data-v-765c2e99"]]);export{l as default};
